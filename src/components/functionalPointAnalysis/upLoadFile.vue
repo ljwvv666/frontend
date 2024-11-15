@@ -61,6 +61,7 @@ const reload = () => {
 
 }
 
+//同时还要add一个gsc表 传一个sysId
 const viewFP = () => {
   router.push("/index/viewFP");
   
